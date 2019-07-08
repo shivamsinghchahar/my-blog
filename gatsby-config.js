@@ -3,15 +3,15 @@ module.exports = {
     siteUrl: 'https://tinney.dev',
     title: 'shivam chahar',
     contact: {
-      name: 'Colin Tinney',
-      email: 'colintinney@gmail.com',
-      displayedEmail: 'colintinney [at] gmail.com',
+      name: 'Shivam Chahar',
+      email: 'chahar.shivam@yahoo.com',
+      displayedEmail: 'chahar.shivam [at] yahoo.com',
       resumeUrl: 'https://drive.google.com/open?id=1pBYBPWx7LyOyUcabGnse4_ItVXkwoufG',
     },
     social: {
-      github: 'cdtinney',
-      linkedin: 'cdtinney',
-      fiveHundredPx: 'colintinney',
+      github: 'chaharshivam',
+      linkedin: 'shivamchahar',
+      fiveHundredPx: '/',
     },
   },
   plugins: [
