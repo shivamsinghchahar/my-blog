@@ -11,7 +11,7 @@ module.exports = {
     social: {
       github: 'chaharshivam',
       linkedin: 'shivamchahar',
-      fiveHundredPx: '/',
+      fiveHundredPx: '/shahr_96',
     },
   },
   plugins: [

@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faGithub,
   faLinkedin,
-  fa500px,
+  faTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 
@@ -59,10 +59,10 @@ function ContactCard({
           />
         </Anchor>
         <Anchor
-          title={`${social.fiveHundredPx} on 500px`}
-          href={`https://500px.com/${social.fiveHundredPx}`}
+          title={`${social.twitter} on Twitter`}
+          href={`https://twitter.com/${social.twitter}`}
           external
-          aria-label="500px profile"
+          aria-label="Twitter profile"
         >
           <FontAwesomeIcon
             icon={fa500px}
