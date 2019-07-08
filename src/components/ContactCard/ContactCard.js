@@ -65,7 +65,7 @@ function ContactCard({
           aria-label="Twitter profile"
         >
           <FontAwesomeIcon
-            icon={fa500px}
+            icon={faTwitter}
             className={classes.icon}
             size="lg"
           />
