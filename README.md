@@ -1,4 +1,4 @@
-# tinney.dev
+# shivamchahar.me
 > A personal website.
 
 [![Build Status](https://travis-ci.org/cdtinney/tinney.dev.svg?branch=develop)](https://travis-ci.org/cdtinney/tinney.dev)
