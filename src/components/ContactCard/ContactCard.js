@@ -133,7 +133,7 @@ export default function ContactCardWithData() {
                 social {
                   github,
                   linkedin,
-                  fiveHundredPx,
+                  twitter,
                 }
               }
             }
