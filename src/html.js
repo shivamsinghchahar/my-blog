@@ -18,7 +18,7 @@ export default function HTML(props) {
       lang="en"
     >
       <head>
-        <title>colin tinney</title>
+        <title>Shivam Chahar</title>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta

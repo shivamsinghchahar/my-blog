@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://tinney.dev',
-    title: 'shivam chahar',
+    title: 'Shivam Chahar',
     contact: {
       name: 'Shivam Chahar',
       email: 'chahar.shivam@yahoo.com',
