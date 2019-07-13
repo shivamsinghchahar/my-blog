@@ -1,7 +1,7 @@
 ---
 path: "/blog/understanding-variables"
 date: "2019-07-13"
-title: "Understang the need of variables in programming"
+title: "Understanding the need of variables in programming"
 archived: true
 ---
 
@@ -53,8 +53,8 @@ var lastName 	= 'Chahar';
 const age 		= 23;
 ```
 
-*Declaration* | *Identifier/Placeholder/Variable* | *Value*
---- | --- | ---
+*Declaration* | *Identifier* | *Value*
+------ | ------ | ------
 `let` | `firstName` | `'Shivam'`
 `var` | `lastName` | `'Chahar'`
 `const` | `age` | `23`
