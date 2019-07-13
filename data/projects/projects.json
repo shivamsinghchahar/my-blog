@@ -1,51 +1,43 @@
 {
   "projects": [{
-    "name": "spune (WIP)",
-    "shortDescription": "Spotify visualizer for your living room TV, inspired by Zune.",
+    "name": "Grid Responsive",
+    "shortDescription": "Responsive layout using Flexbox/Grid.",
     "techStack": [
-        "React", "Redux", "Node.js/Express", "Jest", "Heroku", "MongoDB"
+        "HTML", "CSS"
     ],
-    "homepageUrl": "https://spune.tinney.dev",
-    "gitHubUrl": "https://github.com/cdtinney/spune"
+    "homepageUrl": "http://shivamchahar.me/Grid-Responsive/",
+    "gitHubUrl": "https://github.com/chaharshivam/Grid-Responsive/"
   }, {
-    "name": "fresh-tabula-js",
-    "shortDescription": "PDF table extraction to CSV.",
+    "name": "DS Library",
+    "shortDescription": "A Data Structures library in C++.",
     "techStack": [
-      "JavaScript", "Rollup"
+      "C++"
     ],
-    "homepageUrl": "https://www.npmjs.com/package/fresh-tabula-js",
-    "gitHubUrl": "https://github.com/cdtinney/fresh-tabula-js"
+    "homepageUrl": "https://github.com/chaharshivam/DataStructures-AFunApproach",
+    "gitHubUrl": "https://github.com/chaharshivam/DataStructures-AFunApproach"
   }, {
-    "name": "Aerotrike Aviation",
-    "shortDescription": "Small business website.",
+    "name": "YelpCamp",
+    "shortDescription": "Web app built in Node & Mongo.",
     "techStack": [
-      "Gatsby (React)", "Bootstrap"
+      "Node", "Mongo", "Bootstrap"
     ],
-    "homepageUrl": "https://aerotrikeaviation.com",
-    "gitHubUrl": "https://github.com/cdtinney/aerotrike-aviation"
+    "homepageUrl": "https://fast-coast-41318.herokuapp.com/",
+    "gitHubUrl": "https://fast-coast-41318.herokuapp.com/"
   }, {
-    "name": "innerdroste",
-    "shortDescription": "Client-side Droste effect generator, inspired by Tame Impala.",
+    "name": "Travel",
+    "shortDescription": "Multipage layout using 'Sass'.",
     "techStack": [
-      "JavaScript", "HTML Canvas"
+      "HTML", "Sass"
     ],
-    "homepageUrl": "https://innerdroste.tinney.dev",
-    "gitHubUrl": "https://github.com/cdtinney/innerdroste"
+    "homepageUrl": "http://shivamchahar.me/Final-Project-HTML-CSS/",
+    "gitHubUrl": "https://github.com/chaharshivam/Final-Project-HTML-CSS"
   }, {
-    "name": "react-double-marquee",
-    "shortDescription": "React marquee component, published to NPM.",
+    "name": "portfolio",
+    "shortDescription": "My first portfolio on github",
     "techStack": [
-      "React", "Rollup"
+      "HTML", "Sass"
     ],
-    "homepageUrl": "https://www.npmjs.com/package/react-double-marquee",
-    "gitHubUrl": "https://github.com/cdtinney/react-double-marquee"
-  }, {
-    "name": "tinney.dev",
-    "shortDescription": "Personal website.",
-    "techStack": [
-      "Gatsby (React)", "Travis CI", "Heroku", "GitHub Pages"
-    ],
-    "homepageUrl": "https://tinney.dev",
-    "gitHubUrl": "https://github.com/cdtinney/tinney.dev"
+    "homepageUrl": "http://shivamchahar.me/",
+    "gitHubUrl": "http://shivamchahar.me/"
   }]
 }
