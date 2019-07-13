@@ -9,6 +9,7 @@ archived: true
 
 - [Introduction](#introduction)
 - [Variables](#variables)
+- [Resources](#resources)
 
 ## Introduction
 

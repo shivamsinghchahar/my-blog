@@ -8,6 +8,7 @@ title: "Understanding the need of variables in programming"
 
 - [Introduction](#introduction)
 - [Variables](#variables)
+- [Resources](#resources)
 
 ## Introduction
 
