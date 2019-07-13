@@ -2,6 +2,7 @@
 path: "/blog/understanding-variables"
 date: "2019-07-13"
 title: "Understang the need of variables in programming"
+archived: true
 ---
 
 *Variable is a named memory location*
