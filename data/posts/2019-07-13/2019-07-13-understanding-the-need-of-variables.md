@@ -52,7 +52,7 @@ var lastName 	= 'Chahar';
 const age 		= 23;
 ```
 
-Declaration | Identifier/Placeholder/Variable | Value
+*Declaration* | *Identifier/Placeholder/Variable* | *Value*
 --- | --- | ---
 `let` | `firstName` | `'Shivam'`
 `var` | `lastName` | `'Chahar'`
