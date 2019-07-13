@@ -6,7 +6,7 @@ module.exports = {
       name: 'Shivam Chahar',
       email: 'chahar.shivam@yahoo.com',
       displayedEmail: 'chahar.shivam [at] yahoo.com',
-      resumeUrl: 'https://drive.google.com/open?id=1pBYBPWx7LyOyUcabGnse4_ItVXkwoufG',
+      resumeUrl: 'https://docs.google.com/document/d/1-Zv4s8h_5vUGzwzn2ioDpSRWGt8WzbY5jAVnm0EJ-vE/edit?usp=sharing',
     },
     social: {
       github: 'chaharshivam',
