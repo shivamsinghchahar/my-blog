@@ -25,7 +25,7 @@ Let's take an example to understand how variables are created.
 
 You computer is a place where you store your data. Let's say you create a new folder named `favourite-movies` and you dump all your favourite movies into it. Now, whenever you need to watch one of your favourite movies, you only need to search for your `favourite-movies` folder.
 
-So, you just created a box on your computer's memory with a label `favourite-movies` and dumped your favourite movies into. 
+So, you just created a box on your computer's memory with a label `favourite-movies` and dumped your favourite movies into it. 
 
 variables also work in a similar way.
 
