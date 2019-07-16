@@ -5,7 +5,7 @@
     "techStack": [
         "HTML", "CSS"
     ],
-    "homepageUrl": "http://shivamchahar.me/Grid-Responsive/",
+    "homepageUrl": "http://chaharshivam.github.io/Grid-Responsive/",
     "gitHubUrl": "https://github.com/chaharshivam/Grid-Responsive/"
   }, {
     "name": "DS Library",
@@ -29,7 +29,7 @@
     "techStack": [
       "HTML", "Sass"
     ],
-    "homepageUrl": "http://shivamchahar.me/Final-Project-HTML-CSS/",
+    "homepageUrl": "http://chaharshivam.github.io/Final-Project-HTML-CSS/",
     "gitHubUrl": "https://github.com/chaharshivam/Final-Project-HTML-CSS"
   }, {
     "name": "portfolio",
@@ -37,7 +37,10 @@
     "techStack": [
       "HTML", "Sass"
     ],
-    "homepageUrl": "http://shivamchahar.me/",
-    "gitHubUrl": "http://shivamchahar.me/"
+    "homepageUrl": "http://chaharshivam.github.io/",
+    "gitHubUrl": "http://chaharshivam.github.io/",
+    "techStack": [
+      "HTML", "Sass"
+    ]
   }]
 }
