@@ -18,7 +18,7 @@ module.exports = {
     'gatsby-plugin-sitemap', {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://tinney.dev',
+        host: 'https://shivamchahar.me',
         sitemap: 'https://www.tinney.dev/sitemap.xml',
         policy: [{
           userAgent: '*',
