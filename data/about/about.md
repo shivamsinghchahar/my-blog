@@ -1,1 +1,1 @@
-Hi! I'm learning web development. I'm passionate about making things simple.
+Hi! I'm a Fullstack Developer (MERN). I am passionate about converting machine code into understandable content. 😁
